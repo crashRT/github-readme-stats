@@ -16,14 +16,14 @@ const REPO = "dummy-cra";
 const USER = "grsdummy";
 const STATS_DATA = {
   name: "grsdummy",
-  totalPRs: 1,
+  totalPRs: 2,
   totalCommits: 2,
   totalIssues: 1,
   totalStars: 1,
-  contributedTo: 1,
+  contributedTo: 2,
   rank: {
     level: "A+",
-    score: 51.01622937949586,
+    score: 51.01013099671447,
   },
 };
 const LANGS_DATA = {
